@@ -1,0 +1,170 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 6452
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 613
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 22710
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 1078
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 9
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 1362
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 1534
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = protestant
+		size= 3282
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 6327
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 604
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 6842
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 88
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 15557
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=CXI
+controller=CXI
+trade_goods = tea
+life_rating = 35
+terrain = urban
+fort = 1

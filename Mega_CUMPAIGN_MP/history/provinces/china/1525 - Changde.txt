@@ -1,0 +1,10 @@
+owner=DLH
+controller=DLH
+add_core=CHC
+add_core=CHI
+add_core=CXI
+add_core=DLH
+add_core=NNG
+trade_goods = silk
+life_rating = 32
+fort = 1

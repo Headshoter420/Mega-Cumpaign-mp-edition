@@ -1,0 +1,7 @@
+owner=TIM
+controller=RUS
+add_core=AFG
+add_core=TIM
+trade_goods = wool
+life_rating = 35
+fort = 1

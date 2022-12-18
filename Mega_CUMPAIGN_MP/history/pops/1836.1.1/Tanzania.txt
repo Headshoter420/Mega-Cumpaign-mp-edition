@@ -1,0 +1,1461 @@
+2036 = {
+	slaves=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 38981
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 10759
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 21409
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 994
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 214
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 321
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 1927
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 117516
+	}
+
+	slaves=
+	{
+		culture = swahili
+		religion = sunni
+		size= 24478
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 6756
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size= 22377
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size= 1039
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 224
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 336
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 2014
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 63418
+	}
+
+}
+2037 = {
+	slaves=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 27140
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 5573
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 13932
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 647
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 100
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 209
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 836
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 51078
+	}
+
+}
+2038 = {
+	slaves=
+	{
+		culture = swahili
+		religion = sunni
+		size= 36586
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 13932
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size= 34830
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size= 3234
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 448
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 522
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 3135
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 156101
+	}
+
+}
+2039 = {
+	slaves=
+	{
+		culture = swahili
+		religion = sunni
+		size= 42087
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 15706
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size= 19531
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size= 907
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 196
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 404
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 1171
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 90713
+	}
+
+	slaves=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 472
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 1056
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 11
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 117
+	}
+
+	slaves=
+	{
+		culture = swahili
+		religion = shiite
+		size= 375
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = shiite
+		size= 140
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = shiite
+		size= 3794
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = shiite
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = shiite
+		size= 38
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = shiite
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = shiite
+		size= 228
+	}
+
+}
+2040 = {
+	slaves=
+	{
+		culture = yao
+		religion = shamanism
+		size= 1568
+	}
+
+	soldiers=
+	{
+		culture = yao
+		religion = shamanism
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = yao
+		religion = shamanism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = yao
+		religion = shamanism
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = yao
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = yao
+		religion = shamanism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = yao
+		religion = shamanism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = yao
+		religion = shamanism
+		size= 8261
+	}
+
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 1568
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 8261
+	}
+
+}
+2041 = {
+	slaves=
+	{
+		culture = makua
+		religion = shamanism
+		size= 2571
+	}
+
+	soldiers=
+	{
+		culture = makua
+		religion = shamanism
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = makua
+		religion = shamanism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = makua
+		religion = shamanism
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = makua
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = makua
+		religion = shamanism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = makua
+		religion = shamanism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = makua
+		religion = shamanism
+		size= 7258
+	}
+
+}
+2042 = {
+	slaves=
+	{
+		culture = yao
+		religion = shamanism
+		size= 1849
+	}
+
+	soldiers=
+	{
+		culture = yao
+		religion = shamanism
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = yao
+		religion = shamanism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = yao
+		religion = shamanism
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = yao
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = yao
+		religion = shamanism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = yao
+		religion = shamanism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = yao
+		religion = shamanism
+		size= 7980
+	}
+
+}
+2043 = {
+	aristocrats=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 1075
+	}
+
+	clergymen=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 2200
+	}
+
+	soldiers=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 37625
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = animist
+		size= 6325
+	}
+
+	slaves=
+	{
+		culture = kilombero
+		religion = animist
+		size= 7000
+	}
+
+	aristocrats=
+	{
+		culture = sukuma
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sukuma
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sukuma
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = sukuma
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sukuma
+		religion = animist
+		size= 2700
+	}
+
+	slaves=
+	{
+		culture = sukuma
+		religion = animist
+		size= 6000
+	}
+
+}
+2044 = {
+	slaves=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 4682
+	}
+
+	soldiers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 995
+	}
+
+	artisans=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 2488
+	}
+
+	clergymen=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 50
+	}
+
+	officers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 9254
+	}
+
+	slaves=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 13364
+	}
+
+	soldiers=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 2841
+	}
+
+	artisans=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 888
+	}
+
+	clergymen=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 18
+	}
+
+	officers=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = sukuma
+		religion = shamanism
+		size= 33508
+	}
+
+	slaves=
+	{
+		culture = unyamwezi
+		religion = catholic
+		size= 99
+	}
+
+	soldiers=
+	{
+		culture = sukuma
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = sukuma
+		religion = catholic
+		size= 901
+	}
+
+	clergymen=
+	{
+		culture = sukuma
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = sukuma
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = sukuma
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = sukuma
+		religion = catholic
+		size= 54
+	}
+
+	slaves=
+	{
+		culture = baganda
+		religion = catholic
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = baganda
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = baganda
+		religion = catholic
+		size= 1803
+	}
+
+	clergymen=
+	{
+		culture = baganda
+		religion = catholic
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = baganda
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = baganda
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = baganda
+		religion = catholic
+		size= 108
+	}
+
+	slaves=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 32279
+	}
+
+	soldiers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 6861
+	}
+
+	artisans=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 18924
+	}
+
+	clergymen=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 879
+	}
+
+	bureaucrats=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 379
+	}
+
+	officers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 284
+	}
+
+	aristocrats=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 1136
+	}
+
+	farmers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 61780
+	}
+
+	slaves=
+	{
+		culture = baganda
+		religion = sunni
+		size= 83
+	}
+
+	soldiers=
+	{
+		culture = baganda
+		religion = sunni
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = baganda
+		religion = sunni
+		size= 1865
+	}
+
+	clergymen=
+	{
+		culture = baganda
+		religion = sunni
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = baganda
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = baganda
+		religion = sunni
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = baganda
+		religion = sunni
+		size= 112
+	}
+
+}
+2045 = {
+	slaves=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 8564
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 1990
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 1421
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 71
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = shamanism
+		size= 22891
+	}
+
+	slaves=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 2569
+	}
+
+	soldiers=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 597
+	}
+
+	artisans=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = unyamwezi
+		religion = shamanism
+		size= 6868
+	}
+
+}
+2046 = {
+	aristocrats=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 1075
+	}
+
+	clergymen=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 2200
+	}
+
+	soldiers=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = unyamwezi
+		religion = animist
+		size= 31425
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = animist
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = animist
+		size= 1250
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = animist
+		size= 22775
+	}
+
+	slaves=
+	{
+		culture = nyasa
+		religion = animist
+		size= 12000
+	}
+
+	aristocrats=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 3650
+	}
+
+}
+2047 = {
+	slaves=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 484
+	}
+
+	soldiers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 213
+	}
+
+	clergymen=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 4429
+	}
+
+}
+2048 = {
+	slaves=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 6130
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 1678
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 2097
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 27
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = ibadi
+		size= 19773
+	}
+
+	slaves=
+	{
+		culture = swahili
+		religion = sunni
+		size= 35320
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 9667
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size= 26265
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size= 1219
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 338
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 394
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 1576
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 97846
+	}
+
+}

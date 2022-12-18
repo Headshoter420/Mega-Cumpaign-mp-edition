@@ -1,0 +1,5 @@
+owner=CXI
+controller=CXI
+add_core=CHI
+trade_goods = tea
+life_rating = 32

@@ -1,0 +1,6 @@
+owner=SPA
+controller=SPA
+add_core=BOL
+add_core=CSU
+trade_goods = sulphur
+life_rating = 39

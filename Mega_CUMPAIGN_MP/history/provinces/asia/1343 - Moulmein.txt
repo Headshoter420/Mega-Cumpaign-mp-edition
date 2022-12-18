@@ -1,0 +1,9 @@
+owner=DLH
+controller=DLH
+add_core=BUR
+add_core=DLH
+add_core=IDO
+trade_goods = grain
+life_rating = 33
+naval_base = 2
+fort = 1

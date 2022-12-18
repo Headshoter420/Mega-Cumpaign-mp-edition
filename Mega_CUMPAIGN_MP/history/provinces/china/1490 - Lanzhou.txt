@@ -1,0 +1,8 @@
+owner=OIR
+controller=OIR
+add_core=CHI
+add_core=CSH
+add_core=OIR
+add_core=ZUN
+trade_goods = timber
+life_rating = 32

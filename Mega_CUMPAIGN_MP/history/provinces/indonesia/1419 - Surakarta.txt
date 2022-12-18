@@ -1,0 +1,10 @@
+owner=SUN
+controller=SUN
+add_core=JAV
+add_core=MJP
+add_core=MTR
+add_core=SUN
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+fort = 1

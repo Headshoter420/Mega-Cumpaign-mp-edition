@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=SWA
+trade_goods = precious_goods
+life_rating = 40
+colonial=2
+fort = 1

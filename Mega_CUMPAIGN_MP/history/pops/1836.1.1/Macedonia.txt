@@ -1,0 +1,300 @@
+806 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 426
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 2001
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 290
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 46
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 47101
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 2738
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 63
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 529
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 4989
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 744
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 383
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 27348
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 539
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 349
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 4279
+	}
+
+}
+1780 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 827
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 590
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 27607
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 831
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 270
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 349
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = sunni
+		size= 4319
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=WOL
+trade_goods = fish
+life_rating = 35
+colonial=2
+naval_base = 1

@@ -1,0 +1,4 @@
+owner=GER
+controller=GER
+trade_goods = timber
+life_rating = 5

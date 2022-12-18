@@ -1,0 +1,349 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1989
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4636
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 16139
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 32992
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3190
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2558
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1612
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 479
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 63
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2044
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4581
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 16583
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 32548
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3190
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2558
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1612
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 479
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 63
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2083
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5687
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 3721
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 9400
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 281
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 773
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 2190
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 1357
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 4449
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 10678
+	}
+
+	soldiers=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 813
+	}
+
+	artisans=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 7821
+	}
+
+	clergymen=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 363
+	}
+
+	bureaucrats=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 101
+	}
+
+	officers=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 20327
+	}
+
+}

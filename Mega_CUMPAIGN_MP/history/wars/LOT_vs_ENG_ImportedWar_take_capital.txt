@@ -1,0 +1,14 @@
+name = "3rd Lotharingian-British Imperialist War"
+
+1818.7.2 = {
+	add_attacker = LOT
+	add_defender = ENG
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = LOT
+		receiver = ENG
+		country = ENG
+		state_province_id = 303
+	}
+}

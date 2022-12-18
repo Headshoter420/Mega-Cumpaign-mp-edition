@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=MKS
+trade_goods = fruit
+life_rating = 31
+colonial=2

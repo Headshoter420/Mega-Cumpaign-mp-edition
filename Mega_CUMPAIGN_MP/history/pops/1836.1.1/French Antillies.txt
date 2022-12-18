@@ -1,0 +1,272 @@
+45 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1026
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 83
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 990
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2064
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 7443
+	}
+
+	craftsmen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7181
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8611
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4810
+	}
+
+	capitalists=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 521
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 577
+	}
+
+	clerks=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 492
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 257
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 44
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 601
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7528
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 572
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = tuareg
+		religion = catholic
+		size= 50739
+	}
+
+	soldiers=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 1114
+	}
+
+	farmers=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 8955
+	}
+
+	aristocrats=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 1074
+	}
+
+	clergymen=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 479
+	}
+
+	bureaucrats=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = sahelian_central_america_superregion_culture
+		religion = catholic
+		size= 83
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17444
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1081
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 783
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 117414
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7279
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 20896
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2508
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1119
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 268
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 313
+	}
+
+}

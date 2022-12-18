@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=IPR
+add_core=MLY
+trade_goods = fruit
+life_rating = 32
+colonial=2
+fort = 1

@@ -1,0 +1,8 @@
+owner=X04
+controller=X04
+add_core=CHI
+add_core=CWU
+add_core=CXI
+trade_goods = silk
+life_rating = 32
+colonial=2

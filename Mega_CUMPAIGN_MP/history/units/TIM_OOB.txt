@@ -1,0 +1,413 @@
+#Sphere of Influence
+
+ATM = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 2
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+DLH = {
+	value = 29
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -4
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KOI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = -44
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = -12
+	level = 2
+}
+ORM = {
+	value = -13
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+QAR = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = -13
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -69
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Abû Sâ'id III Bayardai"
+	date="1806.5.8"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Bâbur Bakr"
+	date="1806.5.11"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Bây Sunqur Bakr"
+	date="1815.4.19"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Bây Sunqur Abbâs"
+	date="1817.9.26"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=1218
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Amritsar Irregulars"
+		type=irregular
+		home=1233
+	}
+	regiment = {
+		name="1st Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="1st Peshawar Cavalry"
+		type=cavalry
+		home=1218
+	}
+	regiment = {
+		name="1st Jaipur Cavalry"
+		type=cavalry
+		home=1268
+	}
+	regiment = {
+		name="1st Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="2nd Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="3rd Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="1st Ghazni Irregulars"
+		type=irregular
+		home=1217
+	}
+	regiment = {
+		name="1st Bahawalpur Cavalry"
+		type=cavalry
+		home=1231
+	}
+	regiment = {
+		name="1st Sialkot Cavalry"
+		type=cavalry
+		home=1229
+	}
+	regiment = {
+		name="2nd Peshawar Cavalry"
+		type=cavalry
+		home=1218
+	}
+	regiment = {
+		name="1st Qeshm Artillery"
+		type=artillery
+		home=1071
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1230
+	regiment = {
+		name="1st Shahpur Irregulars"
+		type=irregular
+		home=1232
+	}
+	regiment = {
+		name="2nd Amritsar Irregulars"
+		type=irregular
+		home=1233
+	}
+	regiment = {
+		name="2nd Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="3rd Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="4th Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="4th Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="2nd Ghazni Irregulars"
+		type=irregular
+		home=1217
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1217
+	regiment = {
+		name="2nd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="3rd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+	regiment = {
+		name="1st Attock Artillery"
+		type=artillery
+		home=1230
+	}
+	regiment = {
+		name="5th Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="1st Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="2nd Attock Artillery"
+		type=artillery
+		home=1230
+	}
+}
+

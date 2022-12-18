@@ -1,0 +1,8 @@
+owner=TUR
+controller=ETH
+add_core=MED
+add_core=X02
+trade_goods = fruit
+life_rating = 32
+terrain = semidesert
+colonial=2

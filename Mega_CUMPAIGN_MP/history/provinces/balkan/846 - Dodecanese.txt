@@ -1,0 +1,9 @@
+owner=KNI
+controller=KNI
+add_core=GRE
+add_core=KNI
+trade_goods = grain
+life_rating = 35
+terrain = small_island
+naval_base = 1
+fort = 1

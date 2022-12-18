@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=X07
+add_core=X09
+trade_goods = grain
+life_rating = 33

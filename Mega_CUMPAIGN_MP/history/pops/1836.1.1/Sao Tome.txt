@@ -1,0 +1,177 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 14619
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3612
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 13703
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2296
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 1260
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 6070
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 154
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 1802
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 108
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 27053
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 688
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 7883
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 366
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 101
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 473
+	}
+
+}

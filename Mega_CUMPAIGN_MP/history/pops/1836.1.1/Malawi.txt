@@ -1,0 +1,221 @@
+2066 = {
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 13539
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 21581
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 32840
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 3049
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 610
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 680
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 2956
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 159316
+	}
+
+}
+2067 = {
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 32186
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 8779
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 21360
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 992
+	}
+
+	bureaucrats=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 152
+	}
+
+	officers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 321
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 1923
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 107480
+	}
+
+	slaves=
+	{
+		culture = sena
+		religion = sunni
+		size= 1033
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = sunni
+		size= 576
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = sunni
+		size= 2026
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = sunni
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = tonga
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = tonga
+		religion = sunni
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = sunni
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = sunni
+		size= 6326
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 9155
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 22888
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 1063
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 163
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 343
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 2060
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 111386
+	}
+
+}

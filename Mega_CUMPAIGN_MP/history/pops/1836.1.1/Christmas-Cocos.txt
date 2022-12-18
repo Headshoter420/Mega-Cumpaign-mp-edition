@@ -1,0 +1,198 @@
+2244 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 525
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 8687
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 825
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = catholic
+		size= 1150
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = catholic
+		size= 19010
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = catholic
+		size= 411
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = catholic
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = catholic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = theravada
+		size= 439
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = theravada
+		size= 726
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = theravada
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = theravada
+		size= 25
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = theravada
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = theravada
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = theravada
+		size= 6350
+	}
+
+}

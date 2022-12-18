@@ -1,0 +1,10 @@
+owner=X04
+controller=X04
+add_core=CHI
+add_core=CWU
+add_core=MNX
+add_core=X04
+trade_goods = silk
+life_rating = 32
+naval_base = 1
+fort = 1

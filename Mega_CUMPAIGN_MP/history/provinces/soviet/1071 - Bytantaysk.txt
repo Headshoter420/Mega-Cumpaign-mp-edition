@@ -1,0 +1,8 @@
+owner=TIM
+controller=TIM
+add_core=ARA
+add_core=ORM
+trade_goods = fish
+life_rating = 35
+terrain = semidesert
+fort = 1

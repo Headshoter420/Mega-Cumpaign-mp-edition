@@ -1,0 +1,8 @@
+owner=LOT
+controller=LOT
+add_core=WOL
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
+colonial=2
+fort = 1

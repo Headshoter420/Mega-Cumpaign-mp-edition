@@ -1,0 +1,573 @@
+#Sphere of Influence
+
+ATM = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = -4
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -19
+	level = 2
+}
+HUN = {
+	value = -15
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -18
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KOI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORM = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+QAR = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 224
+	military_access = yes
+	influence_value = 43
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = -15
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -15
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -15
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Kirill Ushakov"
+	date="1794.5.2"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Aleksandr Rebrov"
+	date="1800.6.27"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Prokopiy Fermor"
+	date="1807.9.2"
+	type=sea
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Bogdan Koltsov-Mosalski"
+	date="1818.3.2"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Nikodim Moskvitin"
+	date="1818.3.5"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Artamon Khabarov"
+	date="1818.3.8"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1553
+	regiment = {
+		name="1st Caozhou Infantry"
+		type=infantry
+		home=1564
+	}
+	regiment = {
+		name="1st Jinan Infantry"
+		type=infantry
+		home=1563
+	}
+	regiment = {
+		name="1st Yizhou Infantry"
+		type=infantry
+		home=1571
+	}
+	regiment = {
+		name="1st Wuding Infantry"
+		type=infantry
+		home=1570
+	}
+	regiment = {
+		name="1st Jinan Artillery"
+		type=artillery
+		home=1563
+	}
+	regiment = {
+		name="2nd Jinan Artillery"
+		type=artillery
+		home=1563
+	}
+	regiment = {
+		name="1st Wuding Artillery"
+		type=artillery
+		home=1570
+	}
+	regiment = {
+		name="4th Jinan Artillery"
+		type=artillery
+		home=1563
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1616
+	regiment = {
+		name="1st Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="2nd Jinan Infantry"
+		type=infantry
+		home=1563
+	}
+	regiment = {
+		name="1st Guide Infantry"
+		type=infantry
+		home=1509
+	}
+	regiment = {
+		name="1st Taian Infantry"
+		type=infantry
+		home=1568
+	}
+	regiment = {
+		name="2nd Wuding Infantry"
+		type=infantry
+		home=1570
+	}
+	regiment = {
+		name="1st Baoding Infantry"
+		type=infantry
+		home=1612
+	}
+	regiment = {
+		name="1st Nanyang Infantry"
+		type=infantry
+		home=1513
+	}
+	regiment = {
+		name="1st Qingzhou Cavalry"
+		type=cavalry
+		home=1567
+	}
+	regiment = {
+		name="2nd Wuding Artillery"
+		type=artillery
+		home=1570
+	}
+	regiment = {
+		name="3rd Wuding Artillery"
+		type=artillery
+		home=1570
+	}
+	regiment = {
+		name="4th Wuding Artillery"
+		type=artillery
+		home=1570
+	}
+	regiment = {
+		name="1st Qingdao Artillery"
+		type=artillery
+		home=1566
+	}
+	regiment = {
+		name="5th Wuding Artillery"
+		type=artillery
+		home=1570
+	}
+	regiment = {
+		name="2nd Qingzhou Cavalry"
+		type=cavalry
+		home=1567
+	}
+	regiment = {
+		name="6th Wuding Artillery"
+		type=artillery
+		home=1570
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1002
+	regiment = {
+		name="1st Weihaiwei Infantry"
+		type=infantry
+		home=1569
+	}
+	regiment = {
+		name="2nd Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Yizhou Artillery"
+		type=artillery
+		home=1571
+	}
+	regiment = {
+		name="3rd Jinan Artillery"
+		type=artillery
+		home=1563
+	}
+	regiment = {
+		name="3rd Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2828
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Yizhou Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1570
+	ship = {
+		name="1st Weihaiwei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yizhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wuding Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Yizhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tianjin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Xuzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Weihaiwei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Yizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tianjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qingdao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tianjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Xuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Weihaiwei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Xuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qingzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Peking Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Qingzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huaian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Qingzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tongzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Yizhou Frigate"
+		type=frigate
+	}
+}
+

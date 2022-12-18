@@ -1,0 +1,6 @@
+owner=DLH
+controller=DLH
+add_core=IDO
+add_core=SIA
+trade_goods = grain
+life_rating = 37

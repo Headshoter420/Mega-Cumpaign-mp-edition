@@ -1,0 +1,8 @@
+owner=X03
+controller=X03
+add_core=KOR
+trade_goods = grain
+life_rating = 31
+colonial=2
+naval_base = 2
+fort = 1

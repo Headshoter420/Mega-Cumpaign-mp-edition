@@ -1,0 +1,8 @@
+owner=LOT
+controller=LOT
+add_core=FUL
+trade_goods = fish
+life_rating = 15
+terrain = semidesert
+colonial=2
+naval_base = 1

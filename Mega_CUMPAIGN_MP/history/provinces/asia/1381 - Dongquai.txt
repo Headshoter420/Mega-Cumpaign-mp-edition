@@ -1,0 +1,8 @@
+owner=SIA
+controller=SIA
+add_core=CHA
+add_core=IDO
+add_core=RHD
+add_core=SIA
+trade_goods = wool
+life_rating = 34

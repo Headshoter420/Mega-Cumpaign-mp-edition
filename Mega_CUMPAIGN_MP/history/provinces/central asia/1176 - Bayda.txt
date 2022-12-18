@@ -1,0 +1,7 @@
+owner=ORM
+controller=ORM
+add_core=ARA
+trade_goods = fish
+life_rating = 32
+terrain = semidesert
+fort = 1

@@ -1,0 +1,416 @@
+800 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 591
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 4354
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1045
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 24595
+	}
+
+}
+2569 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 591
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 4354
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1045
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 24595
+	}
+
+}
+2577 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 591
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 4354
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1045
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 24395
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 200
+	}
+
+}
+2582 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 3414
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 305
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 57017
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 1223
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 523
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 19695
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = protestant
+		size= 349
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = protestant
+		size= 953
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = protestant
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = protestant
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = protestant
+		size= 4210
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 4169
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 4759
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 1547
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 333
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 1499
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 61885
+	}
+
+}
+2583 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 591
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 4354
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1045
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 23595
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 1000
+	}
+
+}

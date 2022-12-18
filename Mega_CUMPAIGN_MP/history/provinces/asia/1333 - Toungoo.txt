@@ -1,0 +1,7 @@
+owner=DLH
+controller=DLH
+add_core=BUR
+add_core=DLH
+add_core=IDO
+trade_goods = opium
+life_rating = 35

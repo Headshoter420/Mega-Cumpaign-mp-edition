@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=AST
+trade_goods = fish
+life_rating = 15
+colonial=2

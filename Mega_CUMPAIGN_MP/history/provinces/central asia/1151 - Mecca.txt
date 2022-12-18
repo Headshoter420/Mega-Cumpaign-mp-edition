@@ -1,0 +1,11 @@
+owner=TUR
+controller=TUR
+add_core=ARA
+add_core=DAW
+add_core=HDJ
+add_core=ORM
+add_core=X06
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
+colonial=2

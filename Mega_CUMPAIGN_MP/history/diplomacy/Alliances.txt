@@ -1,0 +1,104 @@
+alliance=
+{
+	first="TUR"
+	second="SCA"
+	start_date="1782.1.10"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KOI"
+	second="ENG"
+	start_date="1734.10.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="USA"
+	second="ITA"
+	start_date="1812.6.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GER"
+	second="ITA"
+	start_date="1741.8.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GER"
+	second="TUR"
+	start_date="1817.12.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="RUS"
+	second="MEW"
+	start_date="1818.2.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRU"
+	second="DLH"
+	start_date="1614.1.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="OIR"
+	second="JAP"
+	start_date="1686.3.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CXI"
+	second="OIR"
+	start_date="1684.3.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CXI"
+	second="DEC"
+	start_date="1684.3.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DLH"
+	second="SUN"
+	start_date="1775.1.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DEC"
+	second="DLH"
+	start_date="1682.10.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DEC"
+	second="TIM"
+	start_date="1685.6.13"
+	end_date="1936.1.1"
+}
+

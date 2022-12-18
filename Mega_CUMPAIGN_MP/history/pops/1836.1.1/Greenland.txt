@@ -1,0 +1,396 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 7522
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 2020
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5128
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 553
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 807
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 27
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 25824
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 103
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1062
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 398
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 334
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3186
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 7522
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 2020
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5128
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 553
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 807
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 27
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 25824
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 103
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1062
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 398
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 334
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3186
+	}
+
+}

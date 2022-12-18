@@ -1,0 +1,5 @@
+owner=GER
+controller=GER
+trade_goods = dye
+life_rating = 31
+colonial=2

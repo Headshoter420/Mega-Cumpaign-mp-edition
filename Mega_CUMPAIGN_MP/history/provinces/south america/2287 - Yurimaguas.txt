@@ -1,0 +1,6 @@
+owner=USA
+controller=USA
+trade_goods = rubber
+life_rating = 33
+terrain = montane_forest
+colonial=2

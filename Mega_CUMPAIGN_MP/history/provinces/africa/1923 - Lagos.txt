@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=OYO
+add_core=SGH
+trade_goods = fish
+life_rating = 35
+colonial=2
+naval_base = 1

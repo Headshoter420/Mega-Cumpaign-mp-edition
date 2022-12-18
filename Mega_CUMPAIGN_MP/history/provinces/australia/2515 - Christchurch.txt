@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=SNZ
+add_core=X08
+trade_goods = wool
+life_rating = 30

@@ -1,0 +1,620 @@
+#Sphere of Influence
+
+ATM = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -2
+	level = 2
+}
+BRU = {
+	value = 1
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+DLH = {
+	value = 186
+	influence_value = 34
+	level = 4
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -10
+	level = 2
+}
+GRJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = -3
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KOI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = -40
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORM = {
+	value = 4
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+QAR = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 19
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -50
+	level = 2
+}
+SPA = {
+	value = 3
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = -2
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WAD = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -8
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Girishawardhana I Samprangan"
+	date="1794.5.28"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mangkubumi Suradipati Samprangan"
+	date="1810.2.28"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Kertawijaya Kencono"
+	date="1811.8.1"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kertawardhana Wani"
+	date="1812.9.27"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sri Baduga Maharaja Harto"
+	date="1813.4.7"
+	type=sea
+	personality="coolminded"
+	background="bootlicker"
+}
+
+leader = {
+	name="Ratu Dewata Mas"
+	date="1815.4.15"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="4th Fleet"
+	location=2808
+	ship = {
+		name="1st Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kuantan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Surabaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Probolinggo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bulon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yogyakarta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kendari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Makassar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kelang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bulon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kota Kubang Labu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kelang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Surabaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bone Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1385
+	regiment = {
+		name="1st Cirebon Irregulars"
+		type=irregular
+		home=1415
+	}
+	regiment = {
+		name="2nd Cirebon Irregulars"
+		type=irregular
+		home=1415
+	}
+	regiment = {
+		name="3rd Cirebon Irregulars"
+		type=irregular
+		home=1415
+	}
+	regiment = {
+		name="1st Batavia Artillery"
+		type=artillery
+		home=1413
+	}
+	regiment = {
+		name="3rd Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+}
+
+army = {
+	name="Kutai Company"
+	location=1391
+	regiment = {
+		name="1st Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="2nd Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="4th Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1418
+	ship = {
+		name="2nd Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bulon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Surabaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Probolinggo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Surabaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Surabaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Surabaya Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1414
+	regiment = {
+		name="1st Surabaya Irregulars"
+		type=irregular
+		home=1418
+	}
+	regiment = {
+		name="2nd Surabaya Irregulars"
+		type=irregular
+		home=1418
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1415
+	regiment = {
+		name="3rd Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="1st Bogor Cavalry"
+		type=cavalry
+		home=1414
+	}
+	regiment = {
+		name="2nd Batavia Artillery"
+		type=artillery
+		home=1413
+	}
+	regiment = {
+		name="1st Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+	regiment = {
+		name="3rd Batavia Artillery"
+		type=artillery
+		home=1413
+	}
+	regiment = {
+		name="1st Surabaya Artillery"
+		type=artillery
+		home=1418
+	}
+	regiment = {
+		name="1st Madura Artillery"
+		type=artillery
+		home=1421
+	}
+	regiment = {
+		name="4th Cirebon Irregulars"
+		type=irregular
+		home=1415
+	}
+	regiment = {
+		name="2nd Bogor Cavalry"
+		type=cavalry
+		home=1414
+	}
+	regiment = {
+		name="3rd Bogor Cavalry"
+		type=cavalry
+		home=1414
+	}
+	regiment = {
+		name="4th Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1413
+	regiment = {
+		name="1st Cirebon Artillery"
+		type=artillery
+		home=1415
+	}
+	regiment = {
+		name="1st Probolinggo Artillery"
+		type=artillery
+		home=1420
+	}
+	regiment = {
+		name="2nd Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+	regiment = {
+		name="5th Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+}
+

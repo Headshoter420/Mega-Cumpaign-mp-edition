@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=KAZ
+add_core=SHY
+trade_goods = wool
+life_rating = 30
+colonial=2

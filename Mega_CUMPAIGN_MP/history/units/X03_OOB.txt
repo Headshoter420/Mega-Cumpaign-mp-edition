@@ -1,0 +1,343 @@
+#Sphere of Influence
+
+ATM = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -19
+	level = 2
+}
+HUN = {
+	value = -15
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KOI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORM = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+QAR = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 135
+	military_access = yes
+	influence_value = 21
+	level = 3
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = -15
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -15
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WAD = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 7
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -15
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Stanislav Repnin"
+	date="1800.1.4"
+	type=land
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Lev Stroganov"
+	date="1803.7.21"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Sergei Dubenski"
+	date="1820.1.3"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1627
+	ship = {
+		name="1st Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sariwon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haeju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Haeju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Haeju Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1621
+	regiment = {
+		name="1st Chonchon Infantry"
+		type=infantry
+		home=1620
+	}
+	regiment = {
+		name="1st Taejon Infantry"
+		type=infantry
+		home=1636
+	}
+	regiment = {
+		name="1st Kimchaek Infantry"
+		type=infantry
+		home=1623
+	}
+	regiment = {
+		name="1st Kimchaek Cavalry"
+		type=cavalry
+		home=1623
+	}
+	regiment = {
+		name="1st Chonchon Artillery"
+		type=artillery
+		home=1620
+	}
+	regiment = {
+		name="2nd Chonchon Infantry"
+		type=infantry
+		home=1620
+	}
+	regiment = {
+		name="2nd Kimchaek Cavalry"
+		type=cavalry
+		home=1623
+	}
+	regiment = {
+		name="2nd Chonchon Artillery"
+		type=artillery
+		home=1620
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2839
+	ship = {
+		name="2nd Haeju Frigate"
+		type=frigate
+	}
+}
+

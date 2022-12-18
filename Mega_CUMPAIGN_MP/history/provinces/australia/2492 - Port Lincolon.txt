@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=X08
+add_core=X09
+trade_goods = wool
+life_rating = 32
+terrain = savanna

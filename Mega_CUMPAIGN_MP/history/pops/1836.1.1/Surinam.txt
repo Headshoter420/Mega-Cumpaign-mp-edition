@@ -1,0 +1,186 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2284
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 11573
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 156
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 441
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 93
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4475
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 14573
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 852
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 1033
+	}
+
+}

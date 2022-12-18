@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=MCK
+add_core=MJZ
+trade_goods = iron
+life_rating = 32
+colonial=2

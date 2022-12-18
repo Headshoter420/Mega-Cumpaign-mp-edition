@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=BOL
+add_core=CSU
+add_core=PEU
+trade_goods = precious_metal
+life_rating = 35

@@ -1,0 +1,170 @@
+203 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 23656
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 851
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 16671
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1496
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 13
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 12714
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 3106
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 40
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 6120
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 44230
+	}
+
+	soldiers=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 1599
+	}
+
+	artisans=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 15798
+	}
+
+	clergymen=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 733
+	}
+
+	bureaucrats=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 203
+	}
+
+	officers=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 1896
+	}
+
+	farmers=
+	{
+		culture = maximilianish
+		religion = protestant
+		size= 15361
+	}
+
+}

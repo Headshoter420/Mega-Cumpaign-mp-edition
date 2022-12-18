@@ -1,0 +1,32 @@
+vassal=
+{
+	first="GER"
+	second="SWI"
+	start_date="1729.4.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GER"
+	second="HUN"
+	start_date="1758.2.13"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X03"
+	start_date="1682.2.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X04"
+	start_date="1755.4.15"
+	end_date="1936.1.1"
+}
+

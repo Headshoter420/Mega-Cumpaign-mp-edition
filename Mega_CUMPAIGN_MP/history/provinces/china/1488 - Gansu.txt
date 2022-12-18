@@ -1,0 +1,10 @@
+owner=OIR
+controller=OIR
+add_core=CSH
+add_core=KHA
+add_core=MGL
+add_core=OIR
+add_core=ZUN
+trade_goods = cotton
+life_rating = 32
+fort = 1

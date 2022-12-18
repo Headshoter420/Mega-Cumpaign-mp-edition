@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=CCQ
+add_core=SBA
+trade_goods = fruit
+life_rating = 35
+terrain = dryhills

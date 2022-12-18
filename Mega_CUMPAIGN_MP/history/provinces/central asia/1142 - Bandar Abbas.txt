@@ -1,0 +1,8 @@
+owner=TIM
+controller=TIM
+add_core=ARA
+add_core=TIM
+trade_goods = fruit
+life_rating = 35
+terrain = semidesert
+naval_base = 1

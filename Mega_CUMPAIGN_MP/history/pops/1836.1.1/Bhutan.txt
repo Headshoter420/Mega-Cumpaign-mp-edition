@@ -1,0 +1,163 @@
+1329 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 9168
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1795
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 11
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 35967
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 214
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 1878
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 112
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = sunni
+		size= 5232
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 585
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = sunni
+		size= 7770
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = sunni
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 50
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 467
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 14730
+	}
+
+}
